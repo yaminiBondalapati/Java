@@ -7,7 +7,7 @@ public class Even_Odd {
         int num = sc.nextInt();
         
         
-        if(num < 1 || num >= 100) {
+        if(num < 12 || num >= 100) {
             System.out.println("invalid");
         }
         else {
